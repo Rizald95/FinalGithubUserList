@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubUserList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="username">username</string>
+    <string name="followers_template">Followers:\n%s</string>
+    <string name="following_template">Following:\n%s</string>
+    <string name="tabText1">Followers</string>
+    <string name="tabText2">Following</string>
+    <string name="dark_mode">Dark</string>
+</resources>
